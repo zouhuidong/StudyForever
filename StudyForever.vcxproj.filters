@@ -212,5 +212,8 @@
     <ClInclude Include="Schedule.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ini.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

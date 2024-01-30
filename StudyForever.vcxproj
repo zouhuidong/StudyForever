@@ -191,6 +191,7 @@
     <ClInclude Include="HiEasyX\HiSysGUI\SysRadioButton.h" />
     <ClInclude Include="HiEasyX\HiSysGUI\SysStatic.h" />
     <ClInclude Include="HiEasyX\HiWindow.h" />
+    <ClInclude Include="ini.hpp" />
     <ClInclude Include="Schedule.h" />
     <ClInclude Include="Wnd.h" />
   </ItemGroup>
